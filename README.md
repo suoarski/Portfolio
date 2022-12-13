@@ -2,6 +2,9 @@
 
 Hello and welcome to my github portfolio, where I will showcase various projects that I have been working on over the last few years.
 
+# Publications
+- [Nature Reviews Earth & Environment - A glimpse into a possible geomorphic future of Tibet](https://www.nature.com/articles/s43017-022-00355-z)
+
 # Machine Learning Related Projects
 - [The Ico-Unet](https://github.com/suoarski/Portfolio/tree/main/TheIcoUnet)
 - [Tens Earth](https://github.com/suoarski/TensEarth)
