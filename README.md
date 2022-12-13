@@ -1,6 +1,10 @@
 # Portfolio for Kilian Liss
 
-Hello and welcome to my github portfolio, where I will showcase various projects that I have been working on over the last few years. 
+Hello and welcome to my github portfolio, where I will showcase various projects that I have been working on over the last few years.
+
+# Deep Learning Related Projects
+- [The Ico-Unet](https://github.com/suoarski/Portfolio/tree/main/TheIcoUnet)
+- [Tens Earth](https://github.com/suoarski/TensEarth)
 
 ## About Me
 After completing my Bachelor of Science (Physics) degree at the University of Wollongong, I have developed a strong sense of logical reasoning and gained a strong foundation for linear algebra, multivariate calculus, and how these concepts apply to the real world.
