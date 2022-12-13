@@ -5,6 +5,7 @@ Hello and welcome to my github portfolio, where I will showcase various projects
 # Machine Learning Related Projects
 - [The Ico-Unet](https://github.com/suoarski/Portfolio/tree/main/TheIcoUnet)
 - [Tens Earth](https://github.com/suoarski/TensEarth)
+- [Non-Negative Matrix Factorizations](https://github.com/suoarski/Portfolio/tree/main/NonNegativeMatrixFactorization)
 
 ## About Me
 After completing my Bachelor of Science (Physics) degree at the University of Wollongong, I have developed a strong sense of logical reasoning and gained a strong foundation for linear algebra, multivariate calculus, and how these concepts apply to the real world.
