@@ -2,7 +2,7 @@
 
 Hello and welcome to my github portfolio, where I will showcase various projects that I have been working on over the last few years.
 
-# Deep Learning Related Projects
+# Machine Learning Related Projects
 - [The Ico-Unet](https://github.com/suoarski/Portfolio/tree/main/TheIcoUnet)
 - [Tens Earth](https://github.com/suoarski/TensEarth)
 
