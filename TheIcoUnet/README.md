@@ -4,4 +4,4 @@ In this assignment, I implemented an original deep learning architecture which g
 
 I do acknowledge that the results would need to be improved significantly for this to be practical, but doing so would probably require much more work and effort compared to what is appropriate for just an assignment. I do however believe that completing this work could probably result in a paper, as this has been my original idea, and I have not yet seen the Unet model being generalized by GNNs.
 
-[![Video Presentation](https://imgur.com/a/jTZ37Nr)](https://youtu.be/GRY--O47VKo)
+[![Video Presentation](https://i.imgur.com/p7GkKXO.png)](https://youtu.be/GRY--O47VKo)
