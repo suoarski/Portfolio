@@ -13,7 +13,7 @@ Hello and welcome to my github portfolio, where I showcase my past programming e
 # Other Projects
 - [Initialising Earth](https://github.com/suoarski/InitialisingEarth): Simulating plate tectonics over the course of millions of years
 - [Traffic Predictions](https://github.com/suoarski/Portfolio/tree/main/TrafficPredictions): Using transport network topology alone to make estimate traffic
-- [Visualizing Landscapes](https://github.com/suoarski/Portfolio/tree/main/VisualizingLandscapes)
+- [Visualizing Landscapes](https://github.com/suoarski/Portfolio/tree/main/VisualizingLandscapes): Discussing various methods for visualizing a landscape
 
 
 # About Me
