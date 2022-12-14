@@ -2,6 +2,9 @@
 
 Hello and welcome to my github portfolio, where I showcase my past programming experience, including projects and assignments that I have been involved in.
 
+# About Me
+After completing my Bachelor of Science (Physics) degree at the University of Wollongong, I have developed a strong mathematical background and how to use it to model reality. I then completed a Masters in Complex Systems at the University of Sydney, doing part time course work, and part time research assistant at the School of Geosciences. My research involved developing numerical algorithms for simulating tectonic plates over the course of millions of years, which resulted in a publication in ["Nature Reviews - Earth and Environmnet"](https://www.nature.com/articles/s43017-022-00355-z). The course work included topics such as Machine Learning, Networks Sciences, Criticality, Information Theory, Statistics and System Dynamics.
+
 # Publications
 - [Nature Reviews Earth & Environment - A glimpse into a possible geomorphic future of Tibet](https://www.nature.com/articles/s43017-022-00355-z)
 
@@ -15,9 +18,7 @@ Hello and welcome to my github portfolio, where I showcase my past programming e
 - [Initialising Earth](https://github.com/suoarski/InitialisingEarth): Simulating plate tectonics over the course of millions of years
 - [Traffic Predictions](https://github.com/suoarski/Portfolio/tree/main/TrafficPredictions): Using transport network topology alone to estimate traffic
 - [Visualizing Landscapes](https://github.com/suoarski/Portfolio/tree/main/VisualizingLandscapes): Discussing various methods for visualizing a landscape
-
-# About Me
-After completing my Bachelor of Science (Physics) degree at the University of Wollongong, I have developed a strong mathematical background and how to use it to model reality. I then completed a Masters in Complex Systems at the University of Sydney, doing part time course work, and part time research assistant at the School of Geosciences. My research involved developing numerical algorithms for simulating tectonic plates over the course of millions of years, which resulted in a publication in ["Nature Reviews - Earth and Environmnet"](https://www.nature.com/articles/s43017-022-00355-z). The course work included topics such as Machine Learning, Networks Sciences, Criticality, Information Theory, Statistics and System Dynamics.
+- [Information Theory](https://github.com/suoarski/Portfolio/tree/main/InformationTheory): An original algorithm of using the Fast Fourier Transform to estimate Entropy and Active Information Storage from sound files.
 
 # Resume
 - [Link to my resume](https://github.com/suoarski/Portfolio/blob/main/Resume%20for%20Kilian%20Liss.pdf)
